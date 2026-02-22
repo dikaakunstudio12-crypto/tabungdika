@@ -1,0 +1,7 @@
+{
+  "name": "Nabung Pintar",
+  "description": "Aplikasi manajemen keuangan cerdas untuk melacak tabungan, pengeluaran, dan target finansial dengan bantuan AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
